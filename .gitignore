@@ -1,5 +1,4 @@
 # Compiler files
-cache/
 # Ignores development broadcast logs
 !/broadcast
 /broadcast/*/31337/
