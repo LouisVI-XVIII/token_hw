@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 import {UBToken} from "../src/UBToken.sol";
-import {Script} from "forge-std/Script";
+import {Script} from "forge-std/Script.sol";
 
 contract UBTokenDeploy is Script {
     function run() public {
